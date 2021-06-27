@@ -21,4 +21,3 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 ### Milestone (Projects 1 to 3)
 
 - [v1.0-milestone.1-3](https://github.com/bgilmour/milestone1to3-100days-Recap/tree/v1.0-milestone.1-3/Milestone1to3): Recap for projects 1 to 3
-- 
