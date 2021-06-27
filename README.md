@@ -1,4 +1,4 @@
-# 100-days-of-swift
+# 100-days-of-swiftui
 
 Index for solutions to the projects that form part of the [100 Days Of SwiftUI](https://www.hackingwithswift.com/100/swiftui/) course created by Paul Hudson ([@twostraws](https://github.com/twostraws)). The solutions consist of code written whilst following the tutorial steps with some modifications made by me as I either tweaked the UI or tried out a slightly different approach. Where appropriate, the projects have been revisited to make further changes that form part of the challenges set later in the course.
 
