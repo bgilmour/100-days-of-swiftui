@@ -18,6 +18,10 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 
 - [v1.0-project.3](https://github.com/bgilmour/project03-100days-ViewsAndModifiers/tree/v1.0-project.3): Initial release of project 3
 
+### Project 4 (BetterRest)
+
+- [v1.0-project.4](https://github.com/bgilmour/project04-100days-BetterRest/releases/tag/v1.0-project.4): Initial release of project 4
+
 ## Milestone reviews
 
 ### Milestone (Projects 1 to 3) - Recap
