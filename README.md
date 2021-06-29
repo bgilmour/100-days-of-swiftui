@@ -21,6 +21,7 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 ### Project 4 (BetterRest)
 
 - [v1.0-project.4](https://github.com/bgilmour/project04-100days-BetterRest/tree/v1.0-project.4): Initial release of project 4
+- [v1.1-project.4](https://github.com/bgilmour/project04-100days-BetterRest/tree/v1.1-project.4): Update project 4 with challenge 1
 
 ## Milestone reviews
 
