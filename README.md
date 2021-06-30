@@ -28,6 +28,7 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 ### Project 5 (WordScramble)
 
 - [v1.0-project.5](https://github.com/bgilmour/project05-100days-WordScramble/tree/v1.0-project.5): Initial release of project 5
+- [v1.1-project.5](https://github.com/bgilmour/project05-100days-WordScramble/tree/v1.1-project.5): Update project 5 with challenge 1
 
 ## Milestone reviews
 
