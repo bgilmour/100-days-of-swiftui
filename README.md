@@ -25,6 +25,10 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 - [v1.2-project.4](https://github.com/bgilmour/project04-100days-BetterRest/tree/v1.2-project.4): Update project 4 with challenge 2
 - [v1.3-project.4](https://github.com/bgilmour/project04-100days-BetterRest/tree/v1.3-project.4): Update project 4 with challenge 3
 
+### Project 5 (WordScramble)
+
+- [v1.0-project.5](https://github.com/bgilmour/project05-100days-WordScramble/tree/v1.0-project.5): Initial release of project 5
+
 ## Milestone reviews
 
 ### Milestone (Projects 1 to 3) - Recap
