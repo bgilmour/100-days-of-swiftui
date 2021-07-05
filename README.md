@@ -39,7 +39,11 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 
 - [v1.0-project.6](https://github.com/bgilmour/project06-100days-Animations/tree/v1.0-project.6): Initial release of project 6
 
-## Milestone reviews
+## Milestone reviews and challenges
+
+### Challenge (Day 19)
+
+- [v1.0-project.5](https://github.com/bgilmour/challenge-100days-UnitConversion/tree/v1.0-challenge): Initial release of day 19 challenge project
 
 ### Milestone (Projects 1 to 3) - Recap
 
