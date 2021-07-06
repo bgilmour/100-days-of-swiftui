@@ -41,10 +41,12 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 
 ## Milestone reviews and challenges
 
-### Challenge (Day 19)
+### Challenge 1 (Day 19)
 
-- [v1.0-project.5](https://github.com/bgilmour/challenge-100days-UnitConversion/tree/v1.0-challenge): Initial release of day 19 challenge project
-- [v1.1-project.5](https://github.com/bgilmour/challenge-100days-UnitConversion/tree/v1.1-challenge): Minor update to day 19 challenge project
+- [v1.0-challenge.1](https://github.com/bgilmour/challenge-100days-UnitConversion/tree/v1.0-challenge.1): Initial release of day 19 challenge project
+- [v1.1-challenge.1](https://github.com/bgilmour/challenge-100days-UnitConversion/tree/v1.1-challenge.1): Minor update to day 19 challenge project
+
+### Challenge 2 (Day 35)
 
 ### Milestone (Projects 1 to 3) - Recap
 
