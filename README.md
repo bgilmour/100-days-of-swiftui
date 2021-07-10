@@ -48,7 +48,7 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 
 ### Challenge 2 (Day 35 - TimesTables)
 
-- [v1.0-challenge.2](https://github.com/bgilmour/challenge2-100days-UnitConversion/tree/v1.0-challenge.2): Initial release of day 35 challenge project
+- [v1.0-challenge.2](https://github.com/bgilmour/challenge2-100days-TimesTables/tree/v1.0-challenge.2): Initial release of day 35 challenge project
 
 ### Milestone (Projects 1 to 3) - Recap
 
