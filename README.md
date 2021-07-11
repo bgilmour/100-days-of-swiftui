@@ -39,6 +39,10 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 
 - [v1.0-project.6](https://github.com/bgilmour/project06-100days-Animations/tree/v1.0-project.6): Initial release of project 6
 
+### Project 7 (iExpense)
+
+- [v1.0-project.7](https://github.com/bgilmour/project07-100days-iExpense/tree/v1.0-project.7): Initial release of project 7
+
 ## Milestone reviews and challenges
 
 ### Challenge 1 (Day 19 - UnitConversions)
