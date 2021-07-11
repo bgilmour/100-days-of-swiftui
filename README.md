@@ -44,6 +44,7 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 - [v1.0-project.7](https://github.com/bgilmour/project07-100days-iExpense/tree/v1.0-project.7): Initial release of project 7
 - [v1.1-project.7](https://github.com/bgilmour/project07-100days-iExpense/tree/v1.1-project.7): Update project 7 with challenge 1
 - [v1.2-project.7](https://github.com/bgilmour/project07-100days-iExpense/tree/v1.2-project.7): Update project 7 with challenge 2
+- [v1.3-project.7](https://github.com/bgilmour/project07-100days-iExpense/tree/v1.3-project.7): Update project 7 with challenge 3
 
 ## Milestone reviews and challenges
 
