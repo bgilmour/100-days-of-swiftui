@@ -7,15 +7,15 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 ### Project 1 (WeSplit)
 
 - [v1.0-project.1](https://github.com/bgilmour/project01-100days-WeSplit/tree/v1.0-project.1): Initial release of project 1
-- [v1.1-project.3](https://github.com/bgilmour/project01-100days-WeSplit/tree/v1.1-project.3): Update to project 1 with the challenge from project 3
+- [v2.0-project.3](https://github.com/bgilmour/project01-100days-WeSplit/tree/v2.0-project.3): Update to project 1 with the challenge from project 3
 
 ### Project 2 (GuessTheFlag)
 
 - [v1.0-project.2](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v1.0-project.2): Initial release of project 2
-- [v1.1-project.3](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v1.1-project.3): Update to project 2 with the challenge from project 3
-- [v1.2-project.6](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v1.2-project.6): Update to project 2 with challenge 1 from project 6
-- [v1.3-project.6](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v1.3-project.6): Update to project 2 with challenge 2 from project 6
-- [v1.4-project.6](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v1.4-project.6): Update to project 2 with challenge 3 from project 6
+- [v2.0-project.3](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v2.0-project.3): Update to project 2 with the challenge from project 3
+- [v3.0-project.6](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v3.0-project.6): Update to project 2 with challenge 1 from project 6
+- [v3.1-project.6](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v3.1-project.6): Update to project 2 with challenge 2 from project 6
+- [v3.2-project.6](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v3.2-project.6): Update to project 2 with challenge 3 from project 6
 
 ### Project 3 (ViewsAndModifiers)
 
