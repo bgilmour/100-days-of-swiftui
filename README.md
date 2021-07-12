@@ -49,6 +49,8 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 ### Project 8 (Moonshot)
 
 - [v1.0-project.8](https://github.com/bgilmour/project08-100days-Moonshot/tree/v1.0-project.8): Initial release of project 8
+- [v1.1-project.8](https://github.com/bgilmour/project08-100days-Moonshot/tree/v1.1-project.8): Update project 8 with challenge 1
+- [v1.2-project.8](https://github.com/bgilmour/project08-100days-Moonshot/tree/v1.2-project.8): Update project 8 with challenge 2
 
 ## Milestone reviews and challenges
 
