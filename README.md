@@ -56,6 +56,7 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 ### Project 9 (Drawing)
 
 - [v1.0-project.9](https://github.com/bgilmour/project09-100days-Drawing/tree/v1.0-project.9): Initial release of project 9
+- [v1.1-project.9](https://github.com/bgilmour/project09-100days-Drawing/tree/v1.1-project.9): Update project 9 with challenges 1 and 2
 
 ## Milestone reviews and challenges
 
