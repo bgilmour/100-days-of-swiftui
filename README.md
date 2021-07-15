@@ -53,6 +53,10 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 - [v1.2-project.8](https://github.com/bgilmour/project08-100days-Moonshot/tree/v1.2-project.8): Update project 8 with challenge 2
 - [v1.3-project.8](https://github.com/bgilmour/project08-100days-Moonshot/tree/v1.3-project.8): Update project 8 with challenge 3
 
+### Project 9 (Drawing)
+
+- [v1.0-project.9](https://github.com/bgilmour/project09-100days-Drawing/tree/v1.0-project.9): Initial release of project 9
+
 ## Milestone reviews and challenges
 
 ### Challenge 1 (Day 19 - UnitConversions)
