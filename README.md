@@ -77,3 +77,7 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 ### Milestone (Projects 1 to 3) - RockPaperScissors
 
 - [v1.0-milestone.1-3](https://github.com/bgilmour/milestone1to3-100days-RockPaperScissors/tree/v1.0-milestone.1-3): Milestone challenge for projects 1 to 3
+
+### Milestone (Projects 7 to 9) - HabitTracker
+
+- [v1.0-milestone.7-9](https://github.com/bgilmour/milestone7to9-100days-HabitTracker/tree/v1.0-milestone.7-9): Milestone challenge for projects 7 to 9
