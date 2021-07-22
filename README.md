@@ -59,6 +59,13 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 - [v1.1-project.9](https://github.com/bgilmour/project09-100days-Drawing/tree/v1.1-project.9): Update project 9 with challenges 1 and 2
 - [v1.2-project.9](https://github.com/bgilmour/project09-100days-Drawing/tree/v1.2-project.9): Update project 9 with challenge 3
 
+### Project 10 (CupcakeCorner)
+
+- [v1.0-project.10](https://github.com/bgilmour/project10-100days-CupcakeCorner/tree/v1.0-project.10): Initial release of project 10
+- [v1.1-project.10](https://github.com/bgilmour/project10-100days-CupcakeCorner/tree/v1.1-project.10): Update project 10 with challenge 1
+- [v1.2-project.10](https://github.com/bgilmour/project10-100days-CupcakeCorner/tree/v1.2-project.10): Update project 10 with challenge 2
+- [v1.3-project.10](https://github.com/bgilmour/project10-100days-CupcakeCorner/tree/v1.3-project.10): Update project 10 with challenge 3
+
 ## Milestone reviews and challenges
 
 ### Challenge 1 (Day 19 - UnitConversions)
