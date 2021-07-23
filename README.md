@@ -66,6 +66,12 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 - [v1.2-project.10](https://github.com/bgilmour/project10-100days-CupcakeCorner/tree/v1.2-project.10): Update project 10 with challenge 2
 - [v1.3-project.10](https://github.com/bgilmour/project10-100days-CupcakeCorner/tree/v1.3-project.10): Update project 10 with challenge 3
 
+### Project 11 (Bookworm)
+
+- [v1.0-project.11](https://github.com/bgilmour/project11-100days-Bookworm/tree/v1.0-project.11): Initial release of project 11
+- [v1.1-project.11](https://github.com/bgilmour/project11-100days-Bookworm/tree/v1.1-project.11): Update project 11 with challenges 1 and 2
+- [v1.2-project.11](https://github.com/bgilmour/project11-100days-Bookworm/tree/v1.2-project.11): Update project 11 with challenge 3
+
 ## Milestone reviews and challenges
 
 ### Challenge 1 (Day 19 - UnitConversions)
