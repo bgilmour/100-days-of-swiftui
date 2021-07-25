@@ -99,3 +99,7 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 ### Milestone (Projects 7 to 9) - HabitTracker
 
 - [v1.0-milestone.7-9](https://github.com/bgilmour/milestone7to9-100days-HabitTracker/tree/v1.0-milestone.7-9): Milestone challenge for projects 7 to 9
+
+### Milestone (Projects 10 to 12) - Friendface
+
+- [v1.0-milestone.10-12](https://github.com/bgilmour/milestone10to12-100days-Friendface/tree/v1.0-milestone.10-12): Milestone challenge for projects 10 to 12
