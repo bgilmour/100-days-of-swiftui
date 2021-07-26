@@ -103,3 +103,4 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 ### Milestone (Projects 10 to 12) - Friendface
 
 - [v1.0-milestone.10-12](https://github.com/bgilmour/milestone10to12-100days-Friendface/tree/v1.0-milestone.10-12): Milestone challenge for projects 10 to 12
+- [v1.1-milestone.10-12](https://github.com/bgilmour/milestone10to12-100days-Friendface/tree/v1.01milestone.10-12): Update to milestone challenge for projects 10 to 12
