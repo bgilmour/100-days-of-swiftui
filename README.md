@@ -77,6 +77,12 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 - [v1.0-project.12](https://github.com/bgilmour/project12-100days-CoreDataProject/tree/v1.0-project.12): Initial release of project 12
 - [v1.1-project.12](https://github.com/bgilmour/project12-100days-CoreDataProject/tree/v1.1-project.12): Update project 12 with challenges 1, 2, and 3
 
+### Project 13 (Instafilter)
+
+- [v1.0-project.13](https://github.com/bgilmour/project13-100days-Instafilter/tree/v1.0-project.13): Initial release of project 13
+- [v1.1-project.13](https://github.com/bgilmour/project13-100days-Instafilter/tree/v1.1-project.13): Update project 13 with challenge 1
+- [v1.2-project.13](https://github.com/bgilmour/project13-100days-Instafilter/tree/v1.2-project.13): Update project 13 with challenge 2
+
 ## Milestone reviews and challenges
 
 ### Challenge 1 (Day 19 - UnitConversions)
