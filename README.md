@@ -82,6 +82,7 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 - [v1.0-project.13](https://github.com/bgilmour/project13-100days-Instafilter/tree/v1.0-project.13): Initial release of project 13
 - [v1.1-project.13](https://github.com/bgilmour/project13-100days-Instafilter/tree/v1.1-project.13): Update project 13 with challenge 1
 - [v1.2-project.13](https://github.com/bgilmour/project13-100days-Instafilter/tree/v1.2-project.13): Update project 13 with challenge 2
+- [v1.3-project.13](https://github.com/bgilmour/project13-100days-Instafilter/tree/v1.3-project.13): Update project 13 with challenge 3
 
 ## Milestone reviews and challenges
 
