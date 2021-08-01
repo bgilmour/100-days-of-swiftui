@@ -84,6 +84,10 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 - [v1.2-project.13](https://github.com/bgilmour/project13-100days-Instafilter/tree/v1.2-project.13): Update project 13 with challenge 2
 - [v1.3-project.13](https://github.com/bgilmour/project13-100days-Instafilter/tree/v1.3-project.13): Update project 13 with challenge 3
 
+### Project 14 (BucketList)
+
+- [v1.0-project.14](https://github.com/bgilmour/project14-100days-BucketList/tree/v1.0-project.14): Initial release of project 14
+
 ## Milestone reviews and challenges
 
 ### Challenge 1 (Day 19 - UnitConversions)
