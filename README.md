@@ -35,6 +35,7 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 - [v1.1-project.5](https://github.com/bgilmour/project05-100days-WordScramble/tree/v1.1-project.5): Update project 5 with challenge 1
 - [v1.2-project.5](https://github.com/bgilmour/project05-100days-WordScramble/tree/v1.2-project.5): Update project 5 with challenge 2
 - [v1.3-project.5](https://github.com/bgilmour/project05-100days-WordScramble/tree/v1.3-project.5): Update project 5 with challenge 3
+- [v2.0-project.15](https://github.com/bgilmour/project05-100days-WordScramble/tree/v2.0-project.15): Update project 5 with accessibility from project 15
 
 ### Project 6 (Animations)
 
