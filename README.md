@@ -16,6 +16,7 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 - [v3.0-project.6](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v3.0-project.6): Update to project 2 with challenge 1 from project 6
 - [v3.1-project.6](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v3.1-project.6): Update to project 2 with challenge 2 from project 6
 - [v3.2-project.6](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v3.2-project.6): Update to project 2 with challenge 3 from project 6
+- [v4.0-project.6](https://github.com/bgilmour/project02-100days-GuessTheFlag/tree/v4.0-project.15): Update to project 2 with accessibility from project 6
 
 ### Project 3 (ViewsAndModifiers)
 
