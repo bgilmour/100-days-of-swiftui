@@ -73,6 +73,7 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 - [v1.0-project.11](https://github.com/bgilmour/project11-100days-Bookworm/tree/v1.0-project.11): Initial release of project 11
 - [v1.1-project.11](https://github.com/bgilmour/project11-100days-Bookworm/tree/v1.1-project.11): Update project 11 with challenges 1 and 2
 - [v1.2-project.11](https://github.com/bgilmour/project11-100days-Bookworm/tree/v1.2-project.11): Update project 11 with challenge 3
+- [v2.0-project.15](https://github.com/bgilmour/project11-100days-Bookworm/tree/v2.0-project.15): Update project 11 with accessibility from project 15
 
 ### Project 12 (CoreDataProject)
 
@@ -89,6 +90,10 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 ### Project 14 (BucketList)
 
 - [v1.0-project.14](https://github.com/bgilmour/project14-100days-BucketList/tree/v1.0-project.14): Initial release of project 14
+
+### Project 15 (Accessibility)
+
+- [v1.0-project.15](https://github.com/bgilmour/project15-100days-Accessibility/tree/v1.0-project.15): Initial release of project 15
 
 ## Milestone reviews and challenges
 
