@@ -95,6 +95,11 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 
 - [v1.0-project.15](https://github.com/bgilmour/project15-100days-Accessibility/tree/v1.0-project.15): Initial release of project 15
 
+### Project 16 (HotProspects)
+
+- [v1.0-project.16](https://github.com/bgilmour/project16-100days-HotProspects/tree/v1.0-project.16): Initial release of project 16
+- [v1.1-project.16](https://github.com/bgilmour/project16-100days-HotProspects/tree/v1.1-project.16): Update project 16 with challenge 1
+
 ## Milestone reviews and challenges
 
 ### Challenge 1 (Day 19 - UnitConversions)
