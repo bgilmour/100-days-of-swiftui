@@ -99,6 +99,8 @@ Index for solutions to the projects that form part of the [100 Days Of SwiftUI](
 
 - [v1.0-project.16](https://github.com/bgilmour/project16-100days-HotProspects/tree/v1.0-project.16): Initial release of project 16
 - [v1.1-project.16](https://github.com/bgilmour/project16-100days-HotProspects/tree/v1.1-project.16): Update project 16 with challenge 1
+- [v1.2-project.16](https://github.com/bgilmour/project16-100days-HotProspects/tree/v1.2-project.16): Update project 16 with challenge 2
+- [v1.3-project.16](https://github.com/bgilmour/project16-100days-HotProspects/tree/v1.3-project.16): Update project 16 with challenge 3
 
 ## Milestone reviews and challenges
 
